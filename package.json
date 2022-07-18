@@ -1,8 +1,8 @@
 {
+  "homepage": "https://davidkris09.github.io/DX-Cinemas",
   "name": "cinema",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://davidkris09.github.io/DX-Cinemas",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",

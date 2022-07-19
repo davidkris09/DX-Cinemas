@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/DX-Cinemas/static/js/runtime~main.56060c56.js"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/DX-Cinemas/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/DX-Cinemas/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/DX-Cinemas/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/DX-Cinemas/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "0723cbb048c5e7f1a1fd55815fed0dc0",
+    "revision": "2dab6ba6be03ad8176bff6f1cb2a6b2b",
     "url": "/DX-Cinemas/index.html"
   }
 ];
